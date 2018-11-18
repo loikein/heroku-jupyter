@@ -7,7 +7,12 @@ storage.
 
 ## Fork notes
 
+Launch the stable deployment:  
 [![Launch My Jupyter Notebook](https://loikein-jupyter3.herokuapp.com/static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f)](https://loikein-jupyter3.herokuapp.com/tree)
+
+I supposedly added a LaTeX environment, but the compressed deploy was too huge for a free Heroku plan (see `latex-logfile.txt`). 
+
+Archiving this repo on 2018-11-18, 15:54 ETC. 
 
 ## Quick start
 
