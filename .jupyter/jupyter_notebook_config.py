@@ -7,8 +7,6 @@ try:
 
     c = get_config()
 
-    c.NotebookApp.notebook_dir = 'https://github.com/loikein/my-jupyter-notes'
-
     ### Password protection ###
     # http://jupyter-notebook.readthedocs.io/en/latest/security.html
     if os.environ.get('JUPYTER_NOTEBOOK_PASSWORD_DISABLED') != 'DangerZone!':
