@@ -5,6 +5,10 @@ heroku or CloudFoundry. If a postgres database is available,
 [pgcontents](https://github.com/quantopian/pgcontents) is used as notebook
 storage.
 
+## Fork notes
+
+[![Launch My Jupyter Notebook](https://loikein-jupyter3.herokuapp.com/static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f)](https://loikein-jupyter3.herokuapp.com/tree)
+
 ## Quick start
 
 Jupyter will not start, if the environment variable `JUPYTER_NOTEBOOK_PASSWORD`
